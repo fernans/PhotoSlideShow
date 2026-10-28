@@ -1,0 +1,19 @@
+# Carpetas no publicadas (documentación interna y trabajo de investigación)
+emails/
+research/
+
+# Versión más antigua / backups
+Copia de dibujos.fla
+
+# Empaquetados históricos (se publicarán como release de GitHub)
+old_development.zip
+release/old_release.zip
+
+# Binarios compilados (se publicarán en el release de GitHub)
+*.exe
+*.vbw
+
+# Basura del sistema
+Thumbs.db
+.DS_Store
+__MACOSX/
